@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnaimbabu" alt="muhammadnaimbabu" /></a> </p>
 
-- 🔭 I’m currently working on **Donation manager**
+- 🔭 I’m currently working on **waraQ | A database management system for islamic center**
 
 - 🌱 I’m currently learning **Javascript, React, React-Native**
-
-- 👨‍💻 All of my projects are available at [naimbabu.com](naimbabu.com)
-
-- 📝 I regularly write articles on [naimbabu.com/blogs](naimbabu.com/blogs)
 
 - 💬 Ask me about **PHP, WordPress, Plugin Development, Theme development, Codeigniter**
 
