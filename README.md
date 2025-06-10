@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naim Babu</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack developer & mobile app developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnaimbabu&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnaimbabu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnaimbabu" alt="muhammadnaimbabu" /></a> </p>
 
-- 🔭 I’m currently working on **waraQ | A database management system for islamic center**
+- 🔭 I’m currently working on **Eimams Application**
 
-- 🌱 I’m currently learning **Javascript, React, React-Native**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **PHP, WordPress, Plugin Development, Theme development, Codeigniter**
+- 💬 Ask me about **PHP, WordPress, Plugin Development, Theme development, Codeigniter, React, React Native, NextJs, Mongodb, NoSql, MySQL, AWS, Azure, VPS Management**
 
-- 📫 How to reach me **contact@naimbabu.com**
+- 📫 How to reach me **babunaim6@gmail.com**
 
 - 📄 Know about my experiences [naimbabu.com/resumes](naimbabu.com/resumes)
 
-- ⚡ Fun fact **I write code in my every mood**
+- ⚡ Fun fact **I write code in every mood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
