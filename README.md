@@ -18,6 +18,4 @@ I build software for ISPs and businesses, from billing platforms to network auto
 
 ## Find me
 - 🌐 Portfolio: [naimbabu.com](https://naimbabu.com)
-- ✍️ Blog: [naimbabu.com/blogs](https://naimbabu.com/blogs)
-- 📄 Resume: [naimbabu.com/resumes](https://naimbabu.com/resumes)
-- 📫 contact@naimbabu.com
+- 📫 muhammadnaimbabu@gmail.com
